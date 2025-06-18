@@ -1,4 +1,3 @@
 streamlit
 pandas
-skicit-learn # jika model anda dibuat dengan skicit-learn
 joblib
